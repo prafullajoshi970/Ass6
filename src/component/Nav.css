@@ -1,0 +1,33 @@
+.Navmain{
+    display: flex;
+
+}
+.Navleft,img{
+    width:60px;
+    height: 60px;
+    
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-size: large;
+}
+.Navmid,.Navright{
+    text-align: center;
+    margin: 15px;
+}
+.Navright{
+  margin-left: 19vw;
+}
+button{
+    width: 100px;
+    height:30px;
+    background-color: rgb(2, 83, 2);
+    color: aliceblue;
+    border: none;
+}
+.na{
+    color: rgb(58, 57, 57);
+    font-size: small;
+}
